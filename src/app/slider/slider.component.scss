@@ -1,0 +1,27 @@
+.slider {
+  @apply border-pink-800;
+  @apply bg-white;
+  @apply rounded-full;
+  @apply border;
+  @apply relative;
+  @apply w-64;
+  @apply h-12;
+  padding: 1px;
+
+  &__button {
+    @apply bg-purple-700;
+    @apply border-pink-500;
+    @apply text-white;
+    @apply border;
+    @apply rounded-full;
+    @apply flex;
+    @apply justify-center;
+    @apply items-center;
+    @apply absolute;
+    @apply cursor-pointer;
+
+    left: 1px;
+    width: 44px;
+    height: 44px;
+  }
+}
