@@ -2,6 +2,8 @@
   Angular Training - RxJS
 </h1>
 
+**Create a pull request into master to submit your answer**
+
 ## Requirement
 
 Continue the implementation of `buttonStyle$` in `slider.component.ts` to make the purple circle slowly move to begining position when you stop dragging.
@@ -19,5 +21,3 @@ npm run i
 ```bash
 npm run start
 ```
-
-**Create a pull request into master to submit your answer**
