@@ -4,26 +4,20 @@
 
 ## Requirement
 
-Continue the implementation of `buttonStyle$` in `slider.component.ts` to make the purple circle slowly move to begining position when you stop draging.
+Continue the implementation of `buttonStyle$` in `slider.component.ts` to make the purple circle slowly move to begining position when you stop dragging.
 
+## How to start
 
-## Development server
+- Install Node.js https://nodejs.org/en/ 
 
-Run `npm run start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Install dependencies
+```bash
+npm run i
+```
 
-## Code scaffolding
+- Start development server
+```bash
+npm run start
+```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `npm run build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `npm run test` to execute the unit tests.
-
-## Lint
-
-Run `npm run lint` to lint project with `eslint`
-
+**Create a pull request into master to submit your answer**
